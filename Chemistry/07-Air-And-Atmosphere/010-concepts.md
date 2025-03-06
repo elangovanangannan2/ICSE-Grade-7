@@ -8,7 +8,12 @@ To help you memorize **Chapter 7 - Air and Atmosphere**, I'll break it down into
 - **Matter:** It occupies space and has mass (proved by inflating a balloon).
 
 ### **Mnemonic to Remember Air Composition**:  
-🌬 **"NOAC"** → **N**itrogen 78%, **O**xygen 21%, **A**rgon 0.9%, **C**arbon dioxide + other gases.
+**Mnemonic:** **"No One Acts Careless Outside"**  
+- **N**itrogen - 78%  
+- **O**xygen - 21%  
+- **A**rgon - 0.93%  
+- **C**arbon dioxide - 0.03%  
+- **O**thers (Neon, Helium, Krypton, Xenon, Hydrogen) - 0.04%
 
 ---
 
@@ -31,11 +36,25 @@ To help you memorize **Chapter 7 - Air and Atmosphere**, I'll break it down into
 ✔️ Essential for plant growth (found in proteins, fertilizers).  
 ✔️ Used in **tyres, ammonia production (Haber process), explosives, and food packaging**.
 
+**Mnemonic:** **"Five Naughty Ants Ate Dinner"**  
+- **F**ixation (Nitrogen gas → Ammonia)  
+- **N**itrification (Ammonia → Nitrates)  
+- **A**ssimilation (Plants absorb nitrates)  
+- **A**mmonification (Decomposers return nitrogen to soil)  
+- **D**enitrification (Bacteria convert nitrates back to nitrogen gas)
+
+
 **2️⃣ Oxygen (O₂)**  
 ✔️ **Essential for breathing & burning.**  
 ✔️ Used in **hospitals (oxygen cylinders), rocket fuel, and welding (oxy-acetylene torch).**  
 ✔️ Supports combustion but **does not burn itself**.
 
+**Mnemonic:** **"Oxygen Burns Life's Water"**  
+- **O**xygen  
+- **B**urns (supports combustion)  
+- **L**ife (essential for respiration)  
+- **W**ater (dissolves in water for aquatic life)
+  
 **3️⃣ Carbon Dioxide (CO₂)**  
 ✔️ **Used in photosynthesis (plants need it to make food).**  
 ✔️ **Dry ice (solid CO₂) for refrigeration.**  
@@ -60,6 +79,14 @@ To help you memorize **Chapter 7 - Air and Atmosphere**, I'll break it down into
 ✔️ **Sulfur dioxide (SO₂)** → Causes acid rain.  
 ✔️ **Nitrogen dioxide (NO₂)** → Causes smog & respiratory problems.  
 ✔️ **Chlorofluorocarbons (CFCs)** → Destroys the ozone layer.  
+
+**Mnemonic:** **"Cool Smog Never Pollutes Cities"**  
+- **C**arbon Monoxide (CO)  
+- **S**ulphur Dioxide (SO₂)  
+- **N**itrogen Dioxide (NO₂)  
+- **P**articulates (Smoke, Dust)  
+- **C**hlorofluorocarbons (CFCs)
+
 
 **Effects of Air Pollution:**  
 🚫 Breathing issues, acid rain, global warming, ozone depletion.
@@ -93,6 +120,14 @@ To help you memorize **Chapter 7 - Air and Atmosphere**, I'll break it down into
 - **Global warming effects:** Melting glaciers, climate change, sea-level rise.
 - **Prevention:** Reduce fossil fuels, use renewable energy, plant trees.
 
+**Mnemonic:** **"Cool Men Wait Near Our City"**  
+- **C**arbon Dioxide (CO₂)  
+- **M**ethane (CH₄)  
+- **W**ater Vapour (H₂O)  
+- **N**itrous Oxide (N₂O)  
+- **O**zone (O₃)  
+- **C**hlorofluorocarbons (CFCs)
+- 
 ---
 
 ## **7. Experiments**
