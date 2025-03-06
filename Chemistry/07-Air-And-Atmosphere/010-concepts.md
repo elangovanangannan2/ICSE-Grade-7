@@ -127,7 +127,6 @@ To help you memorize **Chapter 7 - Air and Atmosphere**, I'll break it down into
 - **N**itrous Oxide (N₂O)  
 - **O**zone (O₃)  
 - **C**hlorofluorocarbons (CFCs)
-- 
 ---
 
 ## **7. Experiments**
