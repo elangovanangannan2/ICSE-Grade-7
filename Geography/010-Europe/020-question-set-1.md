@@ -162,6 +162,7 @@
 #### **Question 10**
 
 (i) With reference to the picture below, answer the following questions:
+
 (a) Identify the natural landform shown in the image.\
 (b) Name one country where this landform is found.\
 (c) How does it impact human settlement?\
