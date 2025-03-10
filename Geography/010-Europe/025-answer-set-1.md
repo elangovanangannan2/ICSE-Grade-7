@@ -107,6 +107,34 @@
 (iii) **What are some environmental challenges faced by Europe?** → Climate change, deforestation, pollution.  
 (iv) **Explain the term ‘Mediterranean Climate’ with examples.** → Characterized by hot, dry summers and mild, wet winters. Found in Spain, Italy, Greece.  
 
+#### **Question 9**
+
+(i) **List and explain any three factors that influence the climate of Europe.** →
+   - **Latitude:** The northern location of Europe affects its climate, with colder temperatures in the north and warmer climates in the south.  
+   - **Proximity to Water Bodies:** The Atlantic Ocean and the Mediterranean Sea help moderate temperatures, leading to milder climates in coastal regions.  
+   - **Mountain Barriers:** The Alps and other mountain ranges influence wind patterns and precipitation, affecting the climate of different regions.  
+
+(ii) **Write a short note on the Scandinavian Highlands.** → The Scandinavian Highlands, or Scandinavian Mountains, stretch across Norway and Sweden. These mountains are characterized by steep slopes, deep fjords, and glacial landscapes. They play a vital role in shaping Norway’s rugged terrain and support activities like hydroelectric power generation and tourism.  
+
+(iii) **Define tundra and taiga regions found in Europe.** →
+   - **Tundra:** Found in northern Europe, mainly in parts of Norway, Sweden, Finland, and Russia. It has extreme cold, permafrost, and minimal vegetation.  
+   - **Taiga:** Also called the boreal forest, it stretches across Scandinavia and Russia, featuring dense coniferous forests with cold winters and short summers.  
+
+(iv) **Discuss the impact of global warming on European geography.** → Global warming affects Europe through rising temperatures, melting glaciers, rising sea levels, and increased occurrences of extreme weather events like heatwaves, storms, and droughts. Coastal regions face threats from flooding, and the Alpine glaciers are shrinking at an alarming rate.  
+
+#### **Question 10**
+
+(i) **With reference to the picture below, answer the following questions:**
+   - **(a) Identify the natural landform shown in the image.** → Example: Fjord  
+   - **(b) Name one country where this landform is found.** → Norway  
+   - **(c) How does it impact human settlement?** → Fjords provide natural harbors, supporting fishing and trade but also making transportation and farming challenging in steep areas.  
+
+(ii) **Why are rivers and lakes important for Europe’s economy?** → Rivers and lakes provide drinking water, support agriculture, serve as trade routes, and generate hydroelectric power. Major rivers like the Danube and Rhine are key transportation networks.  
+
+(iii) **Explain how the geography of Europe has influenced its history.** → Europe’s natural barriers like mountains and rivers shaped the formation of different civilizations. The Mediterranean facilitated trade and cultural exchange, while rivers helped in industrialization and urban development.  
+
+(iv) **Write a brief note on Switzerland’s tourism industry.** → Switzerland’s tourism industry thrives due to its picturesque Alps, ski resorts, lakes, and cultural attractions like Zurich and Geneva. It is famous for adventure tourism, hiking, and winter sports, making it a top global travel destination.  
+
 
 **End of the Answer Key**
 
