@@ -145,6 +145,7 @@
 #### **Question 8**
 
 (i) With reference to the picture below, answer the following questions:
+
 (a) Identify the famous European landmark shown.\
 (b) In which country is it located?\
 (c) Why is this landmark significant?\
