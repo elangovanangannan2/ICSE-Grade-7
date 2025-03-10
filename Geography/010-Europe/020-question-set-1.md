@@ -146,6 +146,7 @@
 
 (i) With reference to the picture below, answer the following questions:
 https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg
+
    (a) Identify the famous European landmark shown.\
    (b) In which country is it located?\
    (c) Why is this landmark significant?\
