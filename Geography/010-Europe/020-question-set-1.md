@@ -145,10 +145,10 @@
 #### **Question 8**
 
 (i) With reference to the picture below, answer the following questions:
-
-(a) Identify the famous European landmark shown.\
-(b) In which country is it located?\
-(c) Why is this landmark significant?\
+https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg
+   (a) Identify the famous European landmark shown.\
+   (b) In which country is it located?\
+   (c) Why is this landmark significant?\
 (ii) Define tourism. Why is Europe a major tourist destination?\
 (iii) What are some of the environmental challenges faced by Europe?\
 (iv) Explain the term ‘Mediterranean Climate’ with examples.
