@@ -6,9 +6,10 @@
 
 ---
 
-### **SECTION A** (Objective & Short Answer)  
+### **SECTION A** (Objective & Short Answer)
 
-#### **Q1. Choose the correct answers from the given options:** [10]  
+#### **Q1. Choose the correct answers from the given options:** [10]
+
 1. **The SI unit of density is:**  
    **(i) kg/m³**  
 2. **The volume of a cuboid of length 3 cm, breadth 4 cm, and height 5 cm is:**  
@@ -28,11 +29,12 @@
 9. **The force of attraction between like poles of a magnet is:**  
    **(ii) Repulsion**  
 10. **The process in which solid changes directly into gas is called:**  
-   **(ii) Sublimation**  
+    **(ii) Sublimation**  
 
 ---
 
-#### **Q2. Fill in the blanks with appropriate terms:** [5]  
+#### **Q2. Fill in the blanks with appropriate terms:** [5]
+
 1. **Volume is a ___________ (fundamental/derived) physical quantity.**  
    **Answer: Derived**  
 2. **The SI unit of power is ___________.**  
@@ -46,7 +48,8 @@
 
 ---
 
-#### **Q3. State whether the following statements are True or False:** [5]  
+#### **Q3. State whether the following statements are True or False:** [5]
+
 1. **Non-uniform motion has uniform velocity.**  
    **Answer: False**  
 2. **A convex mirror always forms a real image.**  
@@ -60,7 +63,8 @@
 
 ---
 
-#### **Q4. Name the following:** [5]  
+#### **Q4. Name the following:** [5]
+
 1. **The unit used to measure electric current.**  
    **Answer: Ammeter**  
 2. **The process in which heat travels through solids.**  
@@ -74,19 +78,20 @@
 
 ---
 
-#### **Q5. Match the following:** [5]  
+#### **Q5. Match the following:** [5]
 
-| Column A                                  | Column B                   |
-| ----------------------------------------- | -------------------------- |
-| The force between like poles              | **Repulsion** |
+| Column A                                  | Column B         |
+| ----------------------------------------- | ---------------- |
+| The force between like poles              | **Repulsion**    |
 | Device to measure current                 | **Galvanometer** |
-| The SI unit of heat energy                | **Joule** |
+| The SI unit of heat energy                | **Joule**        |
 | Process of changing gas into liquid       | **Condensation** |
-| The bending of light rays in a new medium | **Refraction** |
+| The bending of light rays in a new medium | **Refraction**   |
 
 ---
 
-#### **Q6. Give reasons for the following:** [5]  
+#### **Q6. Give reasons for the following:** [5]
+
 1. **Why does a black surface absorb more heat than a white surface?**  
    **Answer: A black surface absorbs all wavelengths of light, converting them into heat, while white reflects most of the light.**  
 2. **Why does a plane mirror always form a virtual image?**  
@@ -100,9 +105,10 @@
 
 ---
 
-### **SECTION B** (Descriptive & Numerical)  
+### **SECTION B** (Descriptive & Numerical)
 
-#### **Q7. Answer all the following questions:** [10]  
+#### **Q7. Answer all the following questions:** [10]
+
 1. **Define density and write its formula.**  
    **Answer: Density is defined as the mass per unit volume of a substance.**  
    **Formula: ρ = m/V**  
@@ -127,5 +133,68 @@
 
 ---
 
+#### **Q8. Distinguish between the following:** [10]
+
+1. **Reflection vs. Refraction**  
+   **Answer:**  
+   - Reflection: Bouncing back of light.  
+   - Refraction: Bending of light when passing between media.  
+2. **Real Image vs. Virtual Image**  
+   **Answer:**  
+   - Real: Formed by actual intersection of rays, can be captured.  
+   - Virtual: Formed by apparent intersection, cannot be captured.  
+3. **Conductors vs. Insulators**  
+   **Answer:**  
+   - Conductors: Allow heat/electricity (e.g., Copper).  
+   - Insulators: Do not allow heat/electricity (e.g., Rubber).  
+4. **Regular Reflection vs. Irregular Reflection**  
+   **Answer:**  
+   - Regular: Light reflects at equal angles on a smooth surface.  
+   - Irregular: Light scatters in different directions on a rough surface.  
+5. **Series Circuit vs. Parallel Circuit**  
+   **Answer:**  
+   - Series: Single path for current.  
+   - Parallel: Multiple paths for current.  
+
+---
+
+#### **Q9. Answer the following questions (Numerical & Theoretical):** [20]
+
+1. **(a)** A cuboid has dimensions 6 cm × 4 cm × 3 cm. Find its volume.  
+   **Answer:**  
+   - Volume = Length × Breadth × Height  
+   - = 6 × 4 × 3 = **72 cm³**  
+     **(b)** A piece of metal has a mass of 200 g and a volume of 50 cm³. Find its density.  
+     **Answer:**  
+   - Density = Mass / Volume  
+   - = 200 g / 50 cm³ = **4 g/cm³**  
+2. **(a)** Define speed and write its formula.  
+   **Answer:**  
+   - Speed is the distance traveled per unit time.  
+   - Formula: Speed = Distance / Time  
+     **(b)** A car covers 240 km in 4 hours. Find its speed in m/s.  
+     **Answer:**  
+   - Speed = 240 km / 4 hr = **60 km/hr = 16.67 m/s**  
+3. **(a)** Explain the process of electromagnetic induction.  
+   **Answer:**  
+   - Electromagnetic induction is the process where a changing magnetic field induces an electric current in a conductor.  
+     **(b)** A voltage of 12V is applied across a resistor of 6Ω. Find the current.  
+     **Answer:**  
+   - Using Ohm’s Law: V = IR  
+   - 12V = I × 6Ω  
+   - I = 12 / 6 = **2 A**  
+4. **(a)** Explain with an experiment how the displacement method is used to measure the volume of an irregular solid.  
+   **Answer:**  
+   - Displacement method: Submerging an irregular solid in water and measuring the rise in water level to find volume.  
+     **(b)** Convert 50 J of energy into calories. (1 calorie = 4.18 J)  
+     **Answer:**  
+   - Conversion: 50 J to calories  
+   - = 50 / 4.18 = **11.96 cal**  
+
+---
+
 ### **End of the Answer Key**
+
+
+
 
